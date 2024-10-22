@@ -1,0 +1,70 @@
+*{
+    box-sizing: border-box;
+}
+header a{
+    color: white;
+    font-size: large;
+}
+header a:hover{
+    cursor: pointer;
+    color: yellow;
+    font-size: large;
+}
+header h6{
+    color: orangered;
+    margin-top: 100px;
+}
+header h1{
+    color: black;
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight:bolder;
+     margin-top: 20px;
+}
+header p{
+    color: grey;
+     font-family: Arial, Helvetica, sans-serif;
+     margin-top: 10px;
+}
+header img{
+         height: 400px;
+     font-family: Arial, Helvetica, sans-serif;
+     margin-top: 30px;
+     margin-bottom: 30px;
+     margin-right: 40px;
+
+}
+#hello{
+       background-color:green;
+       height: 400px;
+       margin-top: 200px;
+       width: 500px;
+       align-items: center;
+       padding: 25px;
+       border-radius: 50px;
+}
+.heading{
+    color:paleturquoise;
+}
+.button {
+    background-color: paleturquoise; /* Green */
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    align-items: center;
+    border-radius: 10px;
+
+  }
+  .button:hover{
+    cursor: pointer;
+    background-color:pink;
+    color: black;
+  }
+  .prat1{
+    height: 600px;
+    width: 800px;
+    margin-top: 100px;
+  }
